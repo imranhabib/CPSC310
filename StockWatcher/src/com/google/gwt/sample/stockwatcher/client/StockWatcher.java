@@ -1,6 +1,6 @@
 package com.google.gwt.sample.stockwatcher.client;
 
-
+// THESE ARE MY AMAZING CHANGES!!!!! #change.
 import java.util.ArrayList;
 import java.util.Date;
 
